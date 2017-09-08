@@ -1,0 +1,28 @@
+.button{
+        -fx-min-width:102px;
+    -fx-min-height:60px;
+         -fx-max-width:102px;
+    -fx-max-height:60px;
+     -fx-text-fill:#990099;
+      -fx-border-color:#990099;
+}
+.label{
+          -fx-font-size: 30px;
+      -fx-font-weight: bold;
+   -fx-text-fill: #ff66cc;/*设置字体颜色*/
+}
+.buttonfir{
+     -fx-min-width:150px;
+    -fx-min-height:60px;
+         -fx-max-width:150px;
+    -fx-max-height:60px;
+}
+.hbTitle{
+   -fx-background-color: #66ffff;//主调背景颜色;
+}
+.scrollPane{
+    -fx-background-color: #66ffff;
+}
+.vbTotal{
+        -fx-background-color: #66ffff;
+}

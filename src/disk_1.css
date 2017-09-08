@@ -1,0 +1,36 @@
+/*.button{
+    -fx-text-fill:#990099;
+    -fx-border-color:#990099;
+    -fx-border-width:2;
+      -fx-min-width:60px;
+    -fx-min-height:60px;
+}*/
+.label{
+      -fx-font-size: 30px;
+      -fx-font-weight: bold;
+      -fx-text-fill: #00ccff;/*设置字体颜色*/
+      
+}
+.diskCss{
+    -fx-background-color:#66ffff;     /*主调背景色;*/
+      /*-fx-background-color:#ff0000;*/
+     
+}
+.button{
+    -fx-text-fill:#990099;
+    -fx-border-color:#990099;
+    /*-fx-border-width:2;*/
+      -fx-min-width:70px;
+    -fx-min-height:70px;
+    -fx-font-size: 16px;
+      -fx-font-weight: bold;
+}
+.okButton{
+    -fx-min-width:60px;
+     -fx-max-width:60px;
+    -fx-min-height:40px;
+    -fx-max-height:40px;
+   
+    -fx-text-fill:#000000;
+    -fx-background-color:#66ff33;
+}

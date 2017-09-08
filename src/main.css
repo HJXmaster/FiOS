@@ -1,0 +1,20 @@
+.button1{
+  -fx-min-width:120px;
+     -fx-max-width:120px;
+    -fx-min-height:100px;
+    -fx-max-height:100px;
+}
+.button2{
+ -fx-min-width:120px;
+     -fx-max-width:120px;
+    -fx-min-height:100px;
+    -fx-max-height:100px;
+}
+.mainBox{
+    -fx-background-color:#66ffff;
+}
+.label{
+      -fx-font-size: 30px;
+      -fx-font-weight: bold;
+      -fx-text-fill: #ff66cc;/*设置字体颜色*/
+}

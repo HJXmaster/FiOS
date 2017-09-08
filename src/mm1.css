@@ -1,0 +1,11 @@
+.button {  
+  
+-fx-background-color: transparent; 
+  -fx-font: 24px "幼圆";
+      -fx-text-fill: white;
+    -fx-effect: dropshadow( three-pass-box , rgba(133,171,205,0.6) , 3, 5.0 , 0 , 1 );  
+}   
+.button:hover {  
+
+    -fx-effect: dropshadow( three-pass-box , rgba(55,122,183,0.8) , 5, 5.0 , 0 , 1 );  
+}   

@@ -1,0 +1,23 @@
+.button{
+    -fx-text-fill:#990099;
+    -fx-border-color:#990099;
+    /*-fx-border-width:2;*/
+      -fx-min-width:60px;
+    -fx-min-height:60px;
+    -fx-font-size: 16px;
+      -fx-font-weight: bold;
+/*      -fx-background-color:#ffcccc;//此处为磁盘内容按钮背景*/
+}
+.btNum{
+    -fx-background-color:#00ffff;
+    -fx-text-fill:#ff0000;
+}
+.label{
+      -fx-font-size: 30px;
+      -fx-font-weight: bold;
+     -fx-text-fill: #ff66cc;/*设置字体颜色*/
+      
+}
+.allbox{
+    -fx-background-color:#66ffff;
+}

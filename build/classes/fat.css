@@ -1,0 +1,41 @@
+.button{
+    -fx-text-fill:#990099;
+    -fx-border-color:#990099;
+    /*-fx-border-width:2;*/
+      -fx-min-width:60px;
+    -fx-min-height:60px;
+    -fx-font-size: 16px;
+      /*-fx-font-weight: bold;*/
+}
+.mm1{
+    -fx-font-size: 15px;
+      -fx-font-weight: bold;
+    -fx-text-fill:#3cd4ec;/*设置字体颜色*/
+}
+.fat1{
+      -fx-border-color:#3cd4ec;    
+      -fx-background-color: #66ffff;
+    }
+  .label
+    {
+          -fx-font-size: 24px;
+      -fx-font-weight: bold;
+ -fx-text-fill: #ff66cc;/*设置字体颜色*/
+    }
+    
+    .fatbox{
+        -fx-background-color:#66ffff; 
+        /*主调背景色;*/
+    }
+    .fat1box{
+            -fx-background-color:#66ffff;
+            /*主调背景色;*/
+    }
+    
+    .kk{
+        -fx-text-fill:#333333;
+        -fx-max-height:35px;
+         -fx-min-height:35px;
+         -fx-background-color:#ff99ff;
+         /*-fx-font-weight:Times;*/
+    }
